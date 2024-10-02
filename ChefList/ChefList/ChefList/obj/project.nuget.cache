@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "T02wrm+l1eVr5wUuEHN1+yiCPbSAiU9wOYlwk/etNtluAdy4TwR6OloLpOwekJjo2MqdQoBX6J7FdUZSNoDGEA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ASUS\\Desktop\\RatatulaProject\\ChefList\\ChefList\\ChefList\\ChefList.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

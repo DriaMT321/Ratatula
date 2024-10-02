@@ -1,0 +1,107 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\RatatulaProject\\MesaCliente\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{671004B0-D4BE-48A2-9234-C21F31656305}|MesaCliente\\MesaCliente.csproj|c:\\users\\asus\\desktop\\ratatulaproject\\mesacliente\\mesacliente\\interface\\detailfood.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{671004B0-D4BE-48A2-9234-C21F31656305}|MesaCliente\\MesaCliente.csproj|solutionrelative:mesacliente\\interface\\detailfood.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{671004B0-D4BE-48A2-9234-C21F31656305}|MesaCliente\\MesaCliente.csproj|c:\\users\\asus\\desktop\\ratatulaproject\\mesacliente\\mesacliente\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{671004B0-D4BE-48A2-9234-C21F31656305}|MesaCliente\\MesaCliente.csproj|solutionrelative:mesacliente\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{671004B0-D4BE-48A2-9234-C21F31656305}|MesaCliente\\MesaCliente.csproj|c:\\users\\asus\\desktop\\ratatulaproject\\mesacliente\\mesacliente\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{671004B0-D4BE-48A2-9234-C21F31656305}|MesaCliente\\MesaCliente.csproj|solutionrelative:mesacliente\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{671004B0-D4BE-48A2-9234-C21F31656305}|MesaCliente\\MesaCliente.csproj|c:\\users\\asus\\desktop\\ratatulaproject\\mesacliente\\mesacliente\\mesacliente.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{671004B0-D4BE-48A2-9234-C21F31656305}|MesaCliente\\MesaCliente.csproj|solutionrelative:mesacliente\\mesacliente.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 521,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Detailfood.xaml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\RatatulaProject\\MesaCliente\\MesaCliente\\Interface\\Detailfood.xaml",
+              "RelativeDocumentMoniker": "MesaCliente\\Interface\\Detailfood.xaml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\RatatulaProject\\MesaCliente\\MesaCliente\\Interface\\Detailfood.xaml",
+              "RelativeToolTip": "MesaCliente\\Interface\\Detailfood.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-25T14:58:35.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\RatatulaProject\\MesaCliente\\MesaCliente\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MesaCliente\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\RatatulaProject\\MesaCliente\\MesaCliente\\MainWindow.xaml",
+              "RelativeToolTip": "MesaCliente\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-25T14:53:48.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\RatatulaProject\\MesaCliente\\MesaCliente\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MesaCliente\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\RatatulaProject\\MesaCliente\\MesaCliente\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MesaCliente\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T14:53:27.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MesaCliente",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\RatatulaProject\\MesaCliente\\MesaCliente\\MesaCliente.csproj",
+              "RelativeDocumentMoniker": "MesaCliente\\MesaCliente.csproj",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\RatatulaProject\\MesaCliente\\MesaCliente\\MesaCliente.csproj",
+              "RelativeToolTip": "MesaCliente\\MesaCliente.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-25T14:53:14.895Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 143,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3822e751-eb69-4b0e-b301-595a9e4c74d5}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,168 @@
+C:\Users\ASUS\source\repos\ChefList\ChefList\bin\Debug\net8.0-windows\ChefList.exe
+C:\Users\ASUS\source\repos\ChefList\ChefList\bin\Debug\net8.0-windows\ChefList.deps.json
+C:\Users\ASUS\source\repos\ChefList\ChefList\bin\Debug\net8.0-windows\ChefList.runtimeconfig.json
+C:\Users\ASUS\source\repos\ChefList\ChefList\bin\Debug\net8.0-windows\ChefList.dll
+C:\Users\ASUS\source\repos\ChefList\ChefList\bin\Debug\net8.0-windows\ChefList.pdb
+C:\Users\ASUS\source\repos\ChefList\ChefList\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\ASUS\source\repos\ChefList\ChefList\obj\Debug\net8.0-windows\ChefList.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\ChefList\ChefList\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\ASUS\source\repos\ChefList\ChefList\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\ASUS\source\repos\ChefList\ChefList\obj\Debug\net8.0-windows\ChefList_MarkupCompile.cache
+C:\Users\ASUS\source\repos\ChefList\ChefList\obj\Debug\net8.0-windows\ChefList_MarkupCompile.lref
+C:\Users\ASUS\source\repos\ChefList\ChefList\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\ASUS\source\repos\ChefList\ChefList\obj\Debug\net8.0-windows\ChefList.g.resources
+C:\Users\ASUS\source\repos\ChefList\ChefList\obj\Debug\net8.0-windows\ChefList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\ChefList\ChefList\obj\Debug\net8.0-windows\ChefList.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\ChefList\ChefList\obj\Debug\net8.0-windows\ChefList.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\ChefList\ChefList\obj\Debug\net8.0-windows\ChefList.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\ChefList\ChefList\obj\Debug\net8.0-windows\ChefList.csproj.Up2Date
+C:\Users\ASUS\source\repos\ChefList\ChefList\obj\Debug\net8.0-windows\ChefList.dll
+C:\Users\ASUS\source\repos\ChefList\ChefList\obj\Debug\net8.0-windows\refint\ChefList.dll
+C:\Users\ASUS\source\repos\ChefList\ChefList\obj\Debug\net8.0-windows\ChefList.pdb
+C:\Users\ASUS\source\repos\ChefList\ChefList\obj\Debug\net8.0-windows\ChefList.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\ChefList\ChefList\obj\Debug\net8.0-windows\ref\ChefList.dll
+C:\Users\Usuario\Downloads\ChefList\ChefList\ChefList\bin\Debug\net8.0-windows\ChefList.exe
+C:\Users\Usuario\Downloads\ChefList\ChefList\ChefList\bin\Debug\net8.0-windows\ChefList.deps.json
+C:\Users\Usuario\Downloads\ChefList\ChefList\ChefList\bin\Debug\net8.0-windows\ChefList.runtimeconfig.json
+C:\Users\Usuario\Downloads\ChefList\ChefList\ChefList\bin\Debug\net8.0-windows\ChefList.dll
+C:\Users\Usuario\Downloads\ChefList\ChefList\ChefList\bin\Debug\net8.0-windows\ChefList.pdb
+C:\Users\Usuario\Downloads\ChefList\ChefList\ChefList\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\Usuario\Downloads\ChefList\ChefList\ChefList\obj\Debug\net8.0-windows\ChefList.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\ChefList\ChefList\ChefList\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Usuario\Downloads\ChefList\ChefList\ChefList\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Usuario\Downloads\ChefList\ChefList\ChefList\obj\Debug\net8.0-windows\ChefList_MarkupCompile.cache
+C:\Users\Usuario\Downloads\ChefList\ChefList\ChefList\obj\Debug\net8.0-windows\ChefList_MarkupCompile.lref
+C:\Users\Usuario\Downloads\ChefList\ChefList\ChefList\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Usuario\Downloads\ChefList\ChefList\ChefList\obj\Debug\net8.0-windows\ChefList.g.resources
+C:\Users\Usuario\Downloads\ChefList\ChefList\ChefList\obj\Debug\net8.0-windows\ChefList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Downloads\ChefList\ChefList\ChefList\obj\Debug\net8.0-windows\ChefList.AssemblyInfoInputs.cache
+C:\Users\Usuario\Downloads\ChefList\ChefList\ChefList\obj\Debug\net8.0-windows\ChefList.AssemblyInfo.cs
+C:\Users\Usuario\Downloads\ChefList\ChefList\ChefList\obj\Debug\net8.0-windows\ChefList.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\ChefList\ChefList\ChefList\obj\Debug\net8.0-windows\ChefList.csproj.Up2Date
+C:\Users\Usuario\Downloads\ChefList\ChefList\ChefList\obj\Debug\net8.0-windows\ChefList.dll
+C:\Users\Usuario\Downloads\ChefList\ChefList\ChefList\obj\Debug\net8.0-windows\refint\ChefList.dll
+C:\Users\Usuario\Downloads\ChefList\ChefList\ChefList\obj\Debug\net8.0-windows\ChefList.pdb
+C:\Users\Usuario\Downloads\ChefList\ChefList\ChefList\obj\Debug\net8.0-windows\ChefList.genruntimeconfig.cache
+C:\Users\Usuario\Downloads\ChefList\ChefList\ChefList\obj\Debug\net8.0-windows\ref\ChefList.dll
+C:\Users\Usuario\Downloads\Si\El alfa\ChefList\ChefList\ChefList\obj\Debug\net8.0-windows\ChefList.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\Si\El alfa\ChefList\ChefList\ChefList\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Usuario\Downloads\Si\El alfa\ChefList\ChefList\ChefList\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Usuario\Downloads\Si\El alfa\ChefList\ChefList\ChefList\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Usuario\Downloads\Si\El alfa\ChefList\ChefList\ChefList\obj\Debug\net8.0-windows\ChefList_MarkupCompile.cache
+C:\Users\Usuario\Downloads\Si\El alfa\ChefList\ChefList\ChefList\obj\Debug\net8.0-windows\ChefList_MarkupCompile.lref
+C:\Users\Usuario\Downloads\Si\El alfa\ChefList\ChefList\ChefList\obj\Debug\net8.0-windows\ChefList.dll
+C:\Users\Usuario\Downloads\Si\El alfa\ChefList\ChefList\ChefList\obj\Debug\net8.0-windows\refint\ChefList.dll
+C:\Users\Usuario\Downloads\Si\El alfa\ChefList\ChefList\ChefList\obj\Debug\net8.0-windows\ChefList.pdb
+C:\Users\Usuario\Downloads\Si\El alfa\ChefList\ChefList\ChefList\bin\Debug\net8.0-windows\ChefList.exe
+C:\Users\Usuario\Downloads\Si\El alfa\ChefList\ChefList\ChefList\bin\Debug\net8.0-windows\ChefList.deps.json
+C:\Users\Usuario\Downloads\Si\El alfa\ChefList\ChefList\ChefList\bin\Debug\net8.0-windows\ChefList.runtimeconfig.json
+C:\Users\Usuario\Downloads\Si\El alfa\ChefList\ChefList\ChefList\bin\Debug\net8.0-windows\ChefList.dll
+C:\Users\Usuario\Downloads\Si\El alfa\ChefList\ChefList\ChefList\bin\Debug\net8.0-windows\ChefList.pdb
+C:\Users\Usuario\Downloads\Si\El alfa\ChefList\ChefList\ChefList\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\Usuario\Downloads\Si\El alfa\ChefList\ChefList\ChefList\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Usuario\Downloads\Si\El alfa\ChefList\ChefList\ChefList\obj\Debug\net8.0-windows\ChefList.g.resources
+C:\Users\Usuario\Downloads\Si\El alfa\ChefList\ChefList\ChefList\obj\Debug\net8.0-windows\ChefList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Downloads\Si\El alfa\ChefList\ChefList\ChefList\obj\Debug\net8.0-windows\ChefList.AssemblyInfoInputs.cache
+C:\Users\Usuario\Downloads\Si\El alfa\ChefList\ChefList\ChefList\obj\Debug\net8.0-windows\ChefList.AssemblyInfo.cs
+C:\Users\Usuario\Downloads\Si\El alfa\ChefList\ChefList\ChefList\obj\Debug\net8.0-windows\ChefList.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\Si\El alfa\ChefList\ChefList\ChefList\obj\Debug\net8.0-windows\ChefList.csproj.Up2Date
+C:\Users\Usuario\Downloads\Si\El alfa\ChefList\ChefList\ChefList\obj\Debug\net8.0-windows\ChefList.genruntimeconfig.cache
+C:\Users\Usuario\Downloads\Si\El alfa\ChefList\ChefList\ChefList\obj\Debug\net8.0-windows\ref\ChefList.dll
+C:\Users\Usuario\Downloads\Si\El alfa\ChefList\ChefList\ChefList\obj\Debug\net8.0-windows\ListaPedido.g.cs
+C:\Users\Usuario\Downloads\Si\El alfa\ChefList\ChefList\ChefList\obj\Debug\net8.0-windows\ListaPedido.baml
+C:\Users\Usuario\Downloads\Si\El alfa\ChefList\ChefList\ChefList\obj\Debug\net8.0-windows\ComidaDialog.baml
+C:\Users\Usuario\Downloads\Si\El alfa\ChefList\ChefList\ChefList\obj\Debug\net8.0-windows\ComidaDialog.g.cs
+C:\Users\Usuario\Downloads\Si\El alfa\ChefList\ChefList\ChefList\obj\Debug\net8.0-windows\Menu.g.cs
+C:\Users\Usuario\Downloads\Si\El alfa\ChefList\ChefList\ChefList\obj\Debug\net8.0-windows\Menu.baml
+C:\Users\ASUS\Downloads\El alfa (1)\El alfa\ChefList\ChefList\ChefList\bin\Debug\net8.0-windows\ChefList.exe
+C:\Users\ASUS\Downloads\El alfa (1)\El alfa\ChefList\ChefList\ChefList\bin\Debug\net8.0-windows\ChefList.deps.json
+C:\Users\ASUS\Downloads\El alfa (1)\El alfa\ChefList\ChefList\ChefList\bin\Debug\net8.0-windows\ChefList.runtimeconfig.json
+C:\Users\ASUS\Downloads\El alfa (1)\El alfa\ChefList\ChefList\ChefList\bin\Debug\net8.0-windows\ChefList.dll
+C:\Users\ASUS\Downloads\El alfa (1)\El alfa\ChefList\ChefList\ChefList\bin\Debug\net8.0-windows\ChefList.pdb
+C:\Users\ASUS\Downloads\El alfa (1)\El alfa\ChefList\ChefList\ChefList\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\ASUS\Downloads\El alfa (1)\El alfa\ChefList\ChefList\ChefList\obj\Debug\net8.0-windows\ChefList.csproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\El alfa (1)\El alfa\ChefList\ChefList\ChefList\obj\Debug\net8.0-windows\ComidaDialog.baml
+C:\Users\ASUS\Downloads\El alfa (1)\El alfa\ChefList\ChefList\ChefList\obj\Debug\net8.0-windows\ComidaDialog.g.cs
+C:\Users\ASUS\Downloads\El alfa (1)\El alfa\ChefList\ChefList\ChefList\obj\Debug\net8.0-windows\ListaPedido.g.cs
+C:\Users\ASUS\Downloads\El alfa (1)\El alfa\ChefList\ChefList\ChefList\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\ASUS\Downloads\El alfa (1)\El alfa\ChefList\ChefList\ChefList\obj\Debug\net8.0-windows\Menu.g.cs
+C:\Users\ASUS\Downloads\El alfa (1)\El alfa\ChefList\ChefList\ChefList\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\ASUS\Downloads\El alfa (1)\El alfa\ChefList\ChefList\ChefList\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\ASUS\Downloads\El alfa (1)\El alfa\ChefList\ChefList\ChefList\obj\Debug\net8.0-windows\ChefList_MarkupCompile.cache
+C:\Users\ASUS\Downloads\El alfa (1)\El alfa\ChefList\ChefList\ChefList\obj\Debug\net8.0-windows\ChefList_MarkupCompile.lref
+C:\Users\ASUS\Downloads\El alfa (1)\El alfa\ChefList\ChefList\ChefList\obj\Debug\net8.0-windows\ListaPedido.baml
+C:\Users\ASUS\Downloads\El alfa (1)\El alfa\ChefList\ChefList\ChefList\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\ASUS\Downloads\El alfa (1)\El alfa\ChefList\ChefList\ChefList\obj\Debug\net8.0-windows\Menu.baml
+C:\Users\ASUS\Downloads\El alfa (1)\El alfa\ChefList\ChefList\ChefList\obj\Debug\net8.0-windows\ChefList.g.resources
+C:\Users\ASUS\Downloads\El alfa (1)\El alfa\ChefList\ChefList\ChefList\obj\Debug\net8.0-windows\ChefList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Downloads\El alfa (1)\El alfa\ChefList\ChefList\ChefList\obj\Debug\net8.0-windows\ChefList.AssemblyInfoInputs.cache
+C:\Users\ASUS\Downloads\El alfa (1)\El alfa\ChefList\ChefList\ChefList\obj\Debug\net8.0-windows\ChefList.AssemblyInfo.cs
+C:\Users\ASUS\Downloads\El alfa (1)\El alfa\ChefList\ChefList\ChefList\obj\Debug\net8.0-windows\ChefList.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\El alfa (1)\El alfa\ChefList\ChefList\ChefList\obj\Debug\net8.0-windows\ChefList.csproj.Up2Date
+C:\Users\ASUS\Downloads\El alfa (1)\El alfa\ChefList\ChefList\ChefList\obj\Debug\net8.0-windows\ChefList.dll
+C:\Users\ASUS\Downloads\El alfa (1)\El alfa\ChefList\ChefList\ChefList\obj\Debug\net8.0-windows\refint\ChefList.dll
+C:\Users\ASUS\Downloads\El alfa (1)\El alfa\ChefList\ChefList\ChefList\obj\Debug\net8.0-windows\ChefList.pdb
+C:\Users\ASUS\Downloads\El alfa (1)\El alfa\ChefList\ChefList\ChefList\obj\Debug\net8.0-windows\ChefList.genruntimeconfig.cache
+C:\Users\ASUS\Downloads\El alfa (1)\El alfa\ChefList\ChefList\ChefList\obj\Debug\net8.0-windows\ref\ChefList.dll
+C:\Users\ASUS\Desktop\RatatulaProject\ChefList\ChefList\ChefList\bin\Debug\net8.0-windows\ChefList.exe
+C:\Users\ASUS\Desktop\RatatulaProject\ChefList\ChefList\ChefList\bin\Debug\net8.0-windows\ChefList.deps.json
+C:\Users\ASUS\Desktop\RatatulaProject\ChefList\ChefList\ChefList\bin\Debug\net8.0-windows\ChefList.runtimeconfig.json
+C:\Users\ASUS\Desktop\RatatulaProject\ChefList\ChefList\ChefList\bin\Debug\net8.0-windows\ChefList.dll
+C:\Users\ASUS\Desktop\RatatulaProject\ChefList\ChefList\ChefList\bin\Debug\net8.0-windows\ChefList.pdb
+C:\Users\ASUS\Desktop\RatatulaProject\ChefList\ChefList\ChefList\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\ASUS\Desktop\RatatulaProject\ChefList\ChefList\ChefList\obj\Debug\net8.0-windows\ChefList.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\RatatulaProject\ChefList\ChefList\ChefList\obj\Debug\net8.0-windows\ComidaDialog.baml
+C:\Users\ASUS\Desktop\RatatulaProject\ChefList\ChefList\ChefList\obj\Debug\net8.0-windows\ComidaDialog.g.cs
+C:\Users\ASUS\Desktop\RatatulaProject\ChefList\ChefList\ChefList\obj\Debug\net8.0-windows\ListaPedido.g.cs
+C:\Users\ASUS\Desktop\RatatulaProject\ChefList\ChefList\ChefList\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\ASUS\Desktop\RatatulaProject\ChefList\ChefList\ChefList\obj\Debug\net8.0-windows\Menu.g.cs
+C:\Users\ASUS\Desktop\RatatulaProject\ChefList\ChefList\ChefList\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\ASUS\Desktop\RatatulaProject\ChefList\ChefList\ChefList\obj\Debug\net8.0-windows\ChefList_MarkupCompile.cache
+C:\Users\ASUS\Desktop\RatatulaProject\ChefList\ChefList\ChefList\obj\Debug\net8.0-windows\ChefList_MarkupCompile.lref
+C:\Users\ASUS\Desktop\RatatulaProject\ChefList\ChefList\ChefList\obj\Debug\net8.0-windows\ListaPedido.baml
+C:\Users\ASUS\Desktop\RatatulaProject\ChefList\ChefList\ChefList\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\ASUS\Desktop\RatatulaProject\ChefList\ChefList\ChefList\obj\Debug\net8.0-windows\Menu.baml
+C:\Users\ASUS\Desktop\RatatulaProject\ChefList\ChefList\ChefList\obj\Debug\net8.0-windows\ChefList.g.resources
+C:\Users\ASUS\Desktop\RatatulaProject\ChefList\ChefList\ChefList\obj\Debug\net8.0-windows\ChefList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\RatatulaProject\ChefList\ChefList\ChefList\obj\Debug\net8.0-windows\ChefList.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\RatatulaProject\ChefList\ChefList\ChefList\obj\Debug\net8.0-windows\ChefList.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\RatatulaProject\ChefList\ChefList\ChefList\obj\Debug\net8.0-windows\ChefList.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\RatatulaProject\ChefList\ChefList\ChefList\obj\Debug\net8.0-windows\ChefList.csproj.Up2Date
+C:\Users\ASUS\Desktop\RatatulaProject\ChefList\ChefList\ChefList\obj\Debug\net8.0-windows\ChefList.dll
+C:\Users\ASUS\Desktop\RatatulaProject\ChefList\ChefList\ChefList\obj\Debug\net8.0-windows\refint\ChefList.dll
+C:\Users\ASUS\Desktop\RatatulaProject\ChefList\ChefList\ChefList\obj\Debug\net8.0-windows\ChefList.pdb
+C:\Users\ASUS\Desktop\RatatulaProject\ChefList\ChefList\ChefList\obj\Debug\net8.0-windows\ChefList.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\RatatulaProject\ChefList\ChefList\ChefList\obj\Debug\net8.0-windows\ref\ChefList.dll
+C:\Users\Usuario\Downloads\RatatulaProject\RatatulaProject\ChefList\ChefList\ChefList\bin\Debug\net8.0-windows\ChefList.exe
+C:\Users\Usuario\Downloads\RatatulaProject\RatatulaProject\ChefList\ChefList\ChefList\bin\Debug\net8.0-windows\ChefList.deps.json
+C:\Users\Usuario\Downloads\RatatulaProject\RatatulaProject\ChefList\ChefList\ChefList\bin\Debug\net8.0-windows\ChefList.runtimeconfig.json
+C:\Users\Usuario\Downloads\RatatulaProject\RatatulaProject\ChefList\ChefList\ChefList\bin\Debug\net8.0-windows\ChefList.dll
+C:\Users\Usuario\Downloads\RatatulaProject\RatatulaProject\ChefList\ChefList\ChefList\bin\Debug\net8.0-windows\ChefList.pdb
+C:\Users\Usuario\Downloads\RatatulaProject\RatatulaProject\ChefList\ChefList\ChefList\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\Usuario\Downloads\RatatulaProject\RatatulaProject\ChefList\ChefList\ChefList\obj\Debug\net8.0-windows\ChefList.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\RatatulaProject\RatatulaProject\ChefList\ChefList\ChefList\obj\Debug\net8.0-windows\ComidaDialog.baml
+C:\Users\Usuario\Downloads\RatatulaProject\RatatulaProject\ChefList\ChefList\ChefList\obj\Debug\net8.0-windows\ComidaDialog.g.cs
+C:\Users\Usuario\Downloads\RatatulaProject\RatatulaProject\ChefList\ChefList\ChefList\obj\Debug\net8.0-windows\ListaPedido.g.cs
+C:\Users\Usuario\Downloads\RatatulaProject\RatatulaProject\ChefList\ChefList\ChefList\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Usuario\Downloads\RatatulaProject\RatatulaProject\ChefList\ChefList\ChefList\obj\Debug\net8.0-windows\Menu.g.cs
+C:\Users\Usuario\Downloads\RatatulaProject\RatatulaProject\ChefList\ChefList\ChefList\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Usuario\Downloads\RatatulaProject\RatatulaProject\ChefList\ChefList\ChefList\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Usuario\Downloads\RatatulaProject\RatatulaProject\ChefList\ChefList\ChefList\obj\Debug\net8.0-windows\ChefList_MarkupCompile.cache
+C:\Users\Usuario\Downloads\RatatulaProject\RatatulaProject\ChefList\ChefList\ChefList\obj\Debug\net8.0-windows\ChefList_MarkupCompile.lref
+C:\Users\Usuario\Downloads\RatatulaProject\RatatulaProject\ChefList\ChefList\ChefList\obj\Debug\net8.0-windows\ListaPedido.baml
+C:\Users\Usuario\Downloads\RatatulaProject\RatatulaProject\ChefList\ChefList\ChefList\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Usuario\Downloads\RatatulaProject\RatatulaProject\ChefList\ChefList\ChefList\obj\Debug\net8.0-windows\Menu.baml
+C:\Users\Usuario\Downloads\RatatulaProject\RatatulaProject\ChefList\ChefList\ChefList\obj\Debug\net8.0-windows\ChefList.g.resources
+C:\Users\Usuario\Downloads\RatatulaProject\RatatulaProject\ChefList\ChefList\ChefList\obj\Debug\net8.0-windows\ChefList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Downloads\RatatulaProject\RatatulaProject\ChefList\ChefList\ChefList\obj\Debug\net8.0-windows\ChefList.AssemblyInfoInputs.cache
+C:\Users\Usuario\Downloads\RatatulaProject\RatatulaProject\ChefList\ChefList\ChefList\obj\Debug\net8.0-windows\ChefList.AssemblyInfo.cs
+C:\Users\Usuario\Downloads\RatatulaProject\RatatulaProject\ChefList\ChefList\ChefList\obj\Debug\net8.0-windows\ChefList.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\RatatulaProject\RatatulaProject\ChefList\ChefList\ChefList\obj\Debug\net8.0-windows\ChefList.csproj.Up2Date
+C:\Users\Usuario\Downloads\RatatulaProject\RatatulaProject\ChefList\ChefList\ChefList\obj\Debug\net8.0-windows\ChefList.dll
+C:\Users\Usuario\Downloads\RatatulaProject\RatatulaProject\ChefList\ChefList\ChefList\obj\Debug\net8.0-windows\refint\ChefList.dll
+C:\Users\Usuario\Downloads\RatatulaProject\RatatulaProject\ChefList\ChefList\ChefList\obj\Debug\net8.0-windows\ChefList.pdb
+C:\Users\Usuario\Downloads\RatatulaProject\RatatulaProject\ChefList\ChefList\ChefList\obj\Debug\net8.0-windows\ChefList.genruntimeconfig.cache
+C:\Users\Usuario\Downloads\RatatulaProject\RatatulaProject\ChefList\ChefList\ChefList\obj\Debug\net8.0-windows\ref\ChefList.dll
+C:\Users\ASUS\Desktop\RatatulaProject\ChefList\ChefList\ChefList\obj\Debug\net8.0-windows\Facturas.g.cs
+C:\Users\ASUS\Desktop\RatatulaProject\ChefList\ChefList\ChefList\obj\Debug\net8.0-windows\Facturas.baml
+C:\Users\ASUS\Desktop\RatatulaProject\ChefList\ChefList\ChefList\obj\Debug\net8.0-windows\ChefList_Content.g.cs

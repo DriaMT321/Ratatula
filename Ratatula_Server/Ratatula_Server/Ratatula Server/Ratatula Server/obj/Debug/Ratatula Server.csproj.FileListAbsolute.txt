@@ -1,0 +1,80 @@
+C:\Users\Usuario\source\repos\Ratatula Server\Ratatula Server\bin\Debug\Ratatula Server.exe.config
+C:\Users\Usuario\source\repos\Ratatula Server\Ratatula Server\bin\Debug\Ratatula Server.exe
+C:\Users\Usuario\source\repos\Ratatula Server\Ratatula Server\bin\Debug\Ratatula Server.pdb
+C:\Users\Usuario\source\repos\Ratatula Server\Ratatula Server\obj\Debug\Ratatula Server.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Ratatula Server\Ratatula Server\obj\Debug\Ratatula Server.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Ratatula Server\Ratatula Server\obj\Debug\Ratatula Server.exe
+C:\Users\Usuario\source\repos\Ratatula Server\Ratatula Server\obj\Debug\Ratatula Server.pdb
+C:\Users\Usuario\source\repos\Ratatula Server\Ratatula Server\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Usuario\source\repos\Ratatula Server\Ratatula Server\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Usuario\source\repos\Ratatula Server\Ratatula Server\obj\Debug\Ratatula Server.csproj.CopyComplete
+C:\Users\ASUS\source\repos\Ratatula_Server\Ratatula Server\Ratatula Server\bin\Debug\Ratatula Server.exe.config
+C:\Users\ASUS\source\repos\Ratatula_Server\Ratatula Server\Ratatula Server\bin\Debug\Ratatula Server.exe
+C:\Users\ASUS\source\repos\Ratatula_Server\Ratatula Server\Ratatula Server\bin\Debug\Ratatula Server.pdb
+C:\Users\ASUS\source\repos\Ratatula_Server\Ratatula Server\Ratatula Server\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ASUS\source\repos\Ratatula_Server\Ratatula Server\Ratatula Server\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ASUS\source\repos\Ratatula_Server\Ratatula Server\Ratatula Server\obj\Debug\Ratatula Server.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\Ratatula_Server\Ratatula Server\Ratatula Server\obj\Debug\Ratatula Server.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Ratatula_Server\Ratatula Server\Ratatula Server\obj\Debug\Ratatula.6DA05081.Up2Date
+C:\Users\ASUS\source\repos\Ratatula_Server\Ratatula Server\Ratatula Server\obj\Debug\Ratatula Server.exe
+C:\Users\ASUS\source\repos\Ratatula_Server\Ratatula Server\Ratatula Server\obj\Debug\Ratatula Server.pdb
+C:\Users\Usuario\Downloads\Si\si\Ratatula_Server\Ratatula Server\Ratatula Server\bin\Debug\Ratatula Server.exe.config
+C:\Users\Usuario\Downloads\Si\si\Ratatula_Server\Ratatula Server\Ratatula Server\bin\Debug\Ratatula Server.exe
+C:\Users\Usuario\Downloads\Si\si\Ratatula_Server\Ratatula Server\Ratatula Server\bin\Debug\Ratatula Server.pdb
+C:\Users\Usuario\Downloads\Si\si\Ratatula_Server\Ratatula Server\Ratatula Server\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Usuario\Downloads\Si\si\Ratatula_Server\Ratatula Server\Ratatula Server\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Usuario\Downloads\Si\si\Ratatula_Server\Ratatula Server\Ratatula Server\obj\Debug\Ratatula Server.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\Si\si\Ratatula_Server\Ratatula Server\Ratatula Server\obj\Debug\Ratatula Server.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\Si\si\Ratatula_Server\Ratatula Server\Ratatula Server\obj\Debug\Ratatula.6DA05081.Up2Date
+C:\Users\Usuario\Downloads\Si\si\Ratatula_Server\Ratatula Server\Ratatula Server\obj\Debug\Ratatula Server.exe
+C:\Users\Usuario\Downloads\Si\si\Ratatula_Server\Ratatula Server\Ratatula Server\obj\Debug\Ratatula Server.pdb
+C:\Users\Usuario\Downloads\Si\El alfa\Ratatula_Server\Ratatula Server\Ratatula Server\obj\Debug\Ratatula Server.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\Si\El alfa\Ratatula_Server\Ratatula Server\Ratatula Server\obj\Debug\Ratatula Server.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\Si\El alfa\Ratatula_Server\Ratatula Server\Ratatula Server\obj\Debug\Ratatula Server.exe
+C:\Users\Usuario\Downloads\Si\El alfa\Ratatula_Server\Ratatula Server\Ratatula Server\obj\Debug\Ratatula Server.pdb
+C:\Users\Usuario\Downloads\Si\El alfa\Ratatula_Server\Ratatula Server\Ratatula Server\bin\Debug\Ratatula Server.exe.config
+C:\Users\Usuario\Downloads\Si\El alfa\Ratatula_Server\Ratatula Server\Ratatula Server\bin\Debug\Ratatula Server.exe
+C:\Users\Usuario\Downloads\Si\El alfa\Ratatula_Server\Ratatula Server\Ratatula Server\bin\Debug\Ratatula Server.pdb
+C:\Users\Usuario\Downloads\Si\El alfa\Ratatula_Server\Ratatula Server\Ratatula Server\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Usuario\Downloads\Si\El alfa\Ratatula_Server\Ratatula Server\Ratatula Server\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Usuario\Downloads\Si\El alfa\Ratatula_Server\Ratatula Server\Ratatula Server\obj\Debug\Ratatula.6DA05081.Up2Date
+C:\Users\ASUS\Downloads\El alfa\El alfa\Ratatula_Server\Ratatula Server\Ratatula Server\bin\Debug\Ratatula Server.exe.config
+C:\Users\ASUS\Downloads\El alfa\El alfa\Ratatula_Server\Ratatula Server\Ratatula Server\bin\Debug\Ratatula Server.exe
+C:\Users\ASUS\Downloads\El alfa\El alfa\Ratatula_Server\Ratatula Server\Ratatula Server\bin\Debug\Ratatula Server.pdb
+C:\Users\ASUS\Downloads\El alfa\El alfa\Ratatula_Server\Ratatula Server\Ratatula Server\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ASUS\Downloads\El alfa\El alfa\Ratatula_Server\Ratatula Server\Ratatula Server\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ASUS\Downloads\El alfa\El alfa\Ratatula_Server\Ratatula Server\Ratatula Server\obj\Debug\Ratatula Server.csproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\El alfa\El alfa\Ratatula_Server\Ratatula Server\Ratatula Server\obj\Debug\Ratatula Server.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\El alfa\El alfa\Ratatula_Server\Ratatula Server\Ratatula Server\obj\Debug\Ratatula.6DA05081.Up2Date
+C:\Users\ASUS\Downloads\El alfa\El alfa\Ratatula_Server\Ratatula Server\Ratatula Server\obj\Debug\Ratatula Server.exe
+C:\Users\ASUS\Downloads\El alfa\El alfa\Ratatula_Server\Ratatula Server\Ratatula Server\obj\Debug\Ratatula Server.pdb
+C:\Users\Usuario\Downloads\Si\Ratatula_Server\Ratatula_Server\Ratatula Server\Ratatula Server\bin\Debug\Ratatula Server.exe.config
+C:\Users\Usuario\Downloads\Si\Ratatula_Server\Ratatula_Server\Ratatula Server\Ratatula Server\bin\Debug\Ratatula Server.exe
+C:\Users\Usuario\Downloads\Si\Ratatula_Server\Ratatula_Server\Ratatula Server\Ratatula Server\bin\Debug\Ratatula Server.pdb
+C:\Users\Usuario\Downloads\Si\Ratatula_Server\Ratatula_Server\Ratatula Server\Ratatula Server\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Usuario\Downloads\Si\Ratatula_Server\Ratatula_Server\Ratatula Server\Ratatula Server\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Usuario\Downloads\Si\Ratatula_Server\Ratatula_Server\Ratatula Server\Ratatula Server\obj\Debug\Ratatula Server.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\Si\Ratatula_Server\Ratatula_Server\Ratatula Server\Ratatula Server\obj\Debug\Ratatula Server.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\Si\Ratatula_Server\Ratatula_Server\Ratatula Server\Ratatula Server\obj\Debug\Ratatula.6DA05081.Up2Date
+C:\Users\Usuario\Downloads\Si\Ratatula_Server\Ratatula_Server\Ratatula Server\Ratatula Server\obj\Debug\Ratatula Server.exe
+C:\Users\Usuario\Downloads\Si\Ratatula_Server\Ratatula_Server\Ratatula Server\Ratatula Server\obj\Debug\Ratatula Server.pdb
+C:\Users\ASUS\Downloads\El alfa (1)\El alfa\Ratatula_Server\Ratatula_Server\Ratatula Server\Ratatula Server\bin\Debug\Ratatula Server.exe.config
+C:\Users\ASUS\Downloads\El alfa (1)\El alfa\Ratatula_Server\Ratatula_Server\Ratatula Server\Ratatula Server\bin\Debug\Ratatula Server.exe
+C:\Users\ASUS\Downloads\El alfa (1)\El alfa\Ratatula_Server\Ratatula_Server\Ratatula Server\Ratatula Server\bin\Debug\Ratatula Server.pdb
+C:\Users\ASUS\Downloads\El alfa (1)\El alfa\Ratatula_Server\Ratatula_Server\Ratatula Server\Ratatula Server\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ASUS\Downloads\El alfa (1)\El alfa\Ratatula_Server\Ratatula_Server\Ratatula Server\Ratatula Server\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ASUS\Downloads\El alfa (1)\El alfa\Ratatula_Server\Ratatula_Server\Ratatula Server\Ratatula Server\obj\Debug\Ratatula Server.csproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\El alfa (1)\El alfa\Ratatula_Server\Ratatula_Server\Ratatula Server\Ratatula Server\obj\Debug\Ratatula Server.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\El alfa (1)\El alfa\Ratatula_Server\Ratatula_Server\Ratatula Server\Ratatula Server\obj\Debug\Ratatula.6DA05081.Up2Date
+C:\Users\ASUS\Downloads\El alfa (1)\El alfa\Ratatula_Server\Ratatula_Server\Ratatula Server\Ratatula Server\obj\Debug\Ratatula Server.exe
+C:\Users\ASUS\Downloads\El alfa (1)\El alfa\Ratatula_Server\Ratatula_Server\Ratatula Server\Ratatula Server\obj\Debug\Ratatula Server.pdb
+C:\Users\ASUS\Desktop\RatatulaProject\Ratatula_Server\Ratatula_Server\Ratatula Server\Ratatula Server\bin\Debug\Ratatula Server.exe.config
+C:\Users\ASUS\Desktop\RatatulaProject\Ratatula_Server\Ratatula_Server\Ratatula Server\Ratatula Server\bin\Debug\Ratatula Server.exe
+C:\Users\ASUS\Desktop\RatatulaProject\Ratatula_Server\Ratatula_Server\Ratatula Server\Ratatula Server\bin\Debug\Ratatula Server.pdb
+C:\Users\ASUS\Desktop\RatatulaProject\Ratatula_Server\Ratatula_Server\Ratatula Server\Ratatula Server\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ASUS\Desktop\RatatulaProject\Ratatula_Server\Ratatula_Server\Ratatula Server\Ratatula Server\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ASUS\Desktop\RatatulaProject\Ratatula_Server\Ratatula_Server\Ratatula Server\Ratatula Server\obj\Debug\Ratatula Server.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\RatatulaProject\Ratatula_Server\Ratatula_Server\Ratatula Server\Ratatula Server\obj\Debug\Ratatula Server.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\RatatulaProject\Ratatula_Server\Ratatula_Server\Ratatula Server\Ratatula Server\obj\Debug\Ratatula.6DA05081.Up2Date
+C:\Users\ASUS\Desktop\RatatulaProject\Ratatula_Server\Ratatula_Server\Ratatula Server\Ratatula Server\obj\Debug\Ratatula Server.exe
+C:\Users\ASUS\Desktop\RatatulaProject\Ratatula_Server\Ratatula_Server\Ratatula Server\Ratatula Server\obj\Debug\Ratatula Server.pdb

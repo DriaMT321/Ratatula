@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "S96X/BwPsOSMXs6sHZGDO7xkK30Zx+WhFWuhR+oLPXeJWLEhAn6nFluJX9FVrtCqTqoAj6pxsLrEajxOw7vZFA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ASUS\\Desktop\\RatatulaProject\\MesaCliente\\MesaCliente\\MesaCliente.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

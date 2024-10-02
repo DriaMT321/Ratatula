@@ -1,0 +1,16 @@
+[
+  {
+    "Id": 1,
+    "Nombre": "Milanga",
+    "Descripcion": "Delicious breaded steak",
+    "Precio": 9.99,
+    "Categoria": "Segundo"
+  },
+  {
+    "Id": 0,
+    "Nombre": "Pudin",
+    "Descripcion": "Rico y dulce",
+    "Precio": 12.0,
+    "Categoria": "Postre"
+  }
+]

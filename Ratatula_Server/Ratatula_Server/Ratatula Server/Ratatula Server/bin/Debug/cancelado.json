@@ -1,0 +1,58 @@
+[
+  {
+    "Id": 0,
+    "NombreComida": "Milanga",
+    "Mesa": 1,
+    "Estado": "Listo",
+    "FechaHora": "2024-06-25T08:04:42.1445384-04:00",
+    "Precio": 9.99
+  },
+  {
+    "Id": 1,
+    "NombreComida": "Milanga",
+    "Mesa": 1,
+    "Estado": "Listo",
+    "FechaHora": "2024-06-25T08:04:42.2876814-04:00",
+    "Precio": 9.99
+  },
+  {
+    "Id": 2,
+    "NombreComida": "Milanga",
+    "Mesa": 1,
+    "Estado": "Listo",
+    "FechaHora": "2024-06-25T08:04:42.4340909-04:00",
+    "Precio": 9.99
+  },
+  {
+    "Id": 3,
+    "NombreComida": "Milanga",
+    "Mesa": 1,
+    "Estado": "Listo",
+    "FechaHora": "2024-06-25T08:04:42.5806902-04:00",
+    "Precio": 9.99
+  },
+  {
+    "Id": 0,
+    "NombreComida": "pudin",
+    "Mesa": 3,
+    "Estado": "Listo",
+    "FechaHora": "2024-06-25T10:15:30.3901874-04:00",
+    "Precio": 10.0
+  },
+  {
+    "Id": 1,
+    "NombreComida": "pudin",
+    "Mesa": 3,
+    "Estado": "Listo",
+    "FechaHora": "2024-06-25T10:15:30.5222802-04:00",
+    "Precio": 10.0
+  },
+  {
+    "Id": 20,
+    "NombreComida": "Milanga",
+    "Mesa": 3,
+    "Estado": "Listo",
+    "FechaHora": "2024-06-25T10:15:53.4254385-04:00",
+    "Precio": 9.99
+  }
+]

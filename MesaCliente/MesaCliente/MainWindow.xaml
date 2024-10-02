@@ -1,0 +1,64 @@
+﻿<Window x:Class="MesaCliente.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MesaCliente"
+        mc:Ignorable="d"
+        Title="Mesa" Height="600" Width="1000"
+        Background="#F0F0C9">
+    <Window.Resources>
+        <!-- Estilo para botones redondeados con hover y selección -->
+        <Style x:Key="RoundedButtonStyle" TargetType="Button">
+            <Setter Property="FontFamily" Value="pack://application:,,,/Font/#Cream DEMO"/>
+            <Setter Property="FontSize" Value="20"/>
+            <Setter Property="FontWeight" Value="Bold"/>
+            <Setter Property="Background" Value="Transparent"/>
+            <Setter Property="Foreground" Value="White"/>
+            <Setter Property="BorderBrush" Value="Transparent"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Border Width="{TemplateBinding Width}" Height="{TemplateBinding Height}" 
+                                Background="{TemplateBinding Background}" BorderBrush="{TemplateBinding BorderBrush}" 
+                                CornerRadius="10">
+                            <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                        </Border>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+            <Style.Triggers>
+                <Trigger Property="IsMouseOver" Value="True">
+                    <Setter Property="Background" Value="White"/>
+                    <Setter Property="Foreground" Value="#6E0E0A"/>
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+
+        <Style x:Key="SelectedButtonStyle" TargetType="Button" BasedOn="{StaticResource RoundedButtonStyle}">
+            <Setter Property="Background" Value="White"/>
+            <Setter Property="Foreground" Value="#6E0E0A"/>
+        </Style>
+    </Window.Resources>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <ContentControl x:Name="MainContent" Grid.Row="0" Background="White"/>
+
+        <Border Background="#6E0E0A" CornerRadius="20" Padding="10" Grid.Row="1" HorizontalAlignment="Center">
+            <StackPanel Orientation="Horizontal">
+                <Button x:Name="Homebtn" Content="Inicio" Width="200" Height="40" Click="Homebtn_Click"
+                        Style="{StaticResource RoundedButtonStyle}"/>
+                <Button x:Name="Menubtn" Content="Menu" Width="200" Height="40" Click="Menubtn_Click"
+                        Style="{StaticResource RoundedButtonStyle}"/>
+                <Button x:Name="Pedidobtn" Content="Pedido" Width="200" Height="40" Click="Pedidobtn_Click"
+                        Style="{StaticResource RoundedButtonStyle}"/>
+                <Button x:Name="Pagarbtn" Content="Pagar" Width="200" Height="40" Click="Pagarbtn_Click"
+                        Style="{StaticResource RoundedButtonStyle}"/>
+            </StackPanel>
+        </Border>
+    </Grid>
+</Window>

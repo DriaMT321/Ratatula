@@ -1,0 +1,72 @@
+﻿<UserControl x:Class="MesaCliente.Interface.ListaPedidos"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:MesaCliente.Interface"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    <UserControl.Resources>
+        <!-- Estilo para el botón redondeado con hover -->
+        <Style x:Key="RoundedButtonStyle" TargetType="Button">
+            <Setter Property="FontFamily" Value="pack://application:,,,/Font/#Cream DEMO"/>
+            <Setter Property="FontSize" Value="16"/>
+            <Setter Property="FontWeight" Value="Bold"/>
+            <Setter Property="Background" Value="#124e78"/>
+            <Setter Property="Foreground" Value="White"/>
+            <Setter Property="BorderBrush" Value="Transparent"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Border Width="{TemplateBinding Width}" Height="{TemplateBinding Height}" 
+                                Background="{TemplateBinding Background}" BorderBrush="{TemplateBinding BorderBrush}" 
+                                CornerRadius="10">
+                            <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                        </Border>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+            <Style.Triggers>
+                <Trigger Property="IsMouseOver" Value="True">
+                    <Setter Property="Background" Value="Gray"/>
+                    <Setter Property="Foreground" Value="White"/>
+                </Trigger>
+                <Trigger Property="IsPressed" Value="True">
+                    <Setter Property="Background" Value="White"/>
+                    <Setter Property="Foreground" Value="#124e78"/>
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+    </UserControl.Resources>
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*" />
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+
+        <!-- Lista Izquierda -->
+        <ScrollViewer Grid.Column="0" Grid.Row="0" VerticalScrollBarVisibility="Auto" HorizontalScrollBarVisibility="Disabled">
+            <Border Background="#124e78" CornerRadius="10" Margin="10">
+                <Canvas x:Name="leftCanvas" Background="Transparent">
+                </Canvas>
+            </Border>
+        </ScrollViewer>
+
+        <!-- Lista Derecha -->
+        <ScrollViewer Grid.Column="1" Grid.Row="0" VerticalScrollBarVisibility="Auto" HorizontalScrollBarVisibility="Disabled">
+            <Border Background="#124e78" CornerRadius="10" Margin="10">
+                <Canvas x:Name="rightCanvas" Background="Transparent">
+                </Canvas>
+            </Border>
+        </ScrollViewer>
+
+        <!-- Botón debajo del Canvas derecho -->
+        <Button x:Name="Pedirbtn" Grid.Column="1" Grid.Row="1" Content="Pedir" HorizontalAlignment="Center" VerticalAlignment="Center" Width="100" Margin="10" Click="Pedirbtn_Click"
+                Style="{StaticResource RoundedButtonStyle}"/>
+    </Grid>
+</UserControl>
